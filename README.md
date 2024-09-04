@@ -1,5 +1,5 @@
-TUGAS 2
-1. Silakan mencari 5 repository open source dengan jumlah contributor, Star,
+#TUGAS 2_Yosep Bima Aprillian
+A. Silakan mencari 5 repository open source dengan jumlah contributor, Star,
    dan commit paling banyak!
 
 1. https://github.com/opencv/opencv
@@ -30,7 +30,7 @@ TUGAS 2
    pengguna dengan survei dalam aplikasi, situs web, tautan, dan email yang indah. Bangun di atas
    Formbricks atau manfaatkan kemampuan analisis data bawaan.
 
-2. Buatlah sebuah aktifitas sehari-hari menggunakan kanban board selama 4
+B. Buatlah sebuah aktifitas sehari-hari menggunakan kanban board selama 4
    minggu (2 minggu ke belakang dan 2 minggu ke depan), minimal struktur
    kanban terdiri dari To Do, In Progress, dan Done! 
 
